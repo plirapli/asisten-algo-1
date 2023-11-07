@@ -17,7 +17,10 @@ main()
   // Memanggil fungsi proses_login() untuk melakukan login terlebih dahulu
   proses_login();
 
-  // Memanggil fungsi tampilkan_menu(), Fungsi ini baru akan berjalan ketika perulangan di fungsi proses_login() telah berhenti
+  /*
+    Memanggil fungsi tampilkan_menu(),
+    Fungsi ini baru akan berjalan ketika perulangan di fungsi proses_login() telah berhenti
+  */
   tampilkan_menu();
 }
 
