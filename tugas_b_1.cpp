@@ -92,13 +92,13 @@ int main()
       }
       else if (tahun_kerja >= 5 && tahun_kerja <= 15)
       {
-        bonus = 1500000 * tahun_kerja;
+        bonus = 1250000 * tahun_kerja;
         cout << "Bonus anda adalah: Rp" << bonus;
         cout << endl;
       }
       else if (tahun_kerja > 15)
       {
-        bonus = 2000000 * tahun_kerja;
+        bonus = 1500000 * tahun_kerja;
         cout << "Bonus anda adalah: Rp" << bonus;
         cout << endl;
       }
