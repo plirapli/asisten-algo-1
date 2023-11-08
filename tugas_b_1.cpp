@@ -81,8 +81,8 @@ int main()
       /*
         Mengecek tahun kerja yang diinput user.
         Jika seorang karyawan telah bekerja selama 1-4 tahun, maka bonusnya adalah 1 juta dikali tahun kerja
-        Jika seorang karyawan telah bekerja selama 5-15 tahun, maka bonusnya adalah 1,5 juta dikali tahun kerja
-        Jika seorang karyawan telah bekerja selama lebih dari 15 tahun, maka bonusnya adalah 2 juta dikali tahun kerja
+        Jika seorang karyawan telah bekerja selama 5-15 tahun, maka bonusnya adalah 1,25 juta dikali tahun kerja
+        Jika seorang karyawan telah bekerja selama lebih dari 15 tahun, maka bonusnya adalah 1,5 juta dikali tahun kerja
       */
       if (tahun_kerja > 0 && tahun_kerja < 5)
       {
